@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "One-click Kittens",
-  "description": "This extension demonstrates a browser action with kittens.",
+  "name": "One-click go to homepage",
+  "description": "This extension directs the current tab to its homepage.",
   "version": "1.0",
 
   "permissions": [
