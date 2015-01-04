@@ -1,7 +1,7 @@
 goto-root
 =========
 
-Chrome extension for going to the homepage of current tab's website using a keyboard shortcut
+Chrome extension for going to the homepage of current tab's website with just a press of a keyboard shortcut
 
 ### Instalation
 
@@ -13,7 +13,7 @@ Clone this repo
 2. Go to `chrome://extensions/`
 3. Set Developer mode to true
 4. Then Load unpacked extension
-5. Choose the folder of this repo
+5. Choose the folder of this repo then click Open
 
 A new icon should now display at the topright corner. Click this to go to the homepage of the current tab's website.
 
